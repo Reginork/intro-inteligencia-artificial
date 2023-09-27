@@ -1,13 +1,7 @@
-# intro-inteligencia-artificial
+# Proyecto Sign Language Model
 
-Andrés Santiago Ayala Saldarriaga  
-CC: 1007242393
-Programa: Ingeniería Mecánica
+## Miembros del grupo
 
-Laura Daniela Monsalve Gómez  
-CC: 1020487353
-Programa: Ingeniería de Sistemas Presencial
-
-Daniel Felipe Cetina Saldarriaga  
-CC: 1020483794
-Programa: Ingeniería de Sistemas Virtual
+- Andrés Santiago Ayala Saldarriaga, CC 1007242393, Ingeniería Mecánica
+- Laura Daniela Monsalve Gómez, CC 1020487353, Ingeniería de Sistemas
+- Daniel Felipe Cetina Saldarriaga, CC 1020483794, Ingeniería de Sistemas
